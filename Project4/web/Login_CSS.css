@@ -1,0 +1,65 @@
+/* 
+    Document   : login-form
+    Created on : Dec 28, 2011, 5:58:41 PM
+    Author     : Angel
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+
+body { background-image: url('bannerbg.jpg'); }
+
+h1 { font-family: Algerian, sans-serif;
+     color: #F1EBE3;
+     text-align:center; }
+
+#text { font-family: 'Bookman Old Style', serif;
+        font-size: 20px;
+        color: #F1EBE3;
+        margin-left: 10%;
+        margin-right: 10%;} 
+
+#logo { width: 31.333%;
+        display: inline;
+        float: left;
+        position: relative;
+        margin-left: 10%;
+        margin-right: 1%;
+        font-family: "Lucida Console", Monaco, monospace;
+        font-size:30px; }
+
+#home, #info, #login { font: normal 125%/1.55 "ff-meta-serif-web-pro-1", "ff-meta-serif-web-pro-2", Georgia, "Times New Roman", serif;               
+                       color: #F1EBE3;
+                       width: 16.5%; 
+                       list-style-type: none;
+                       margin-right: 1%;
+                       margin-left: 1%;
+                       margin-top: 2.2%;
+                       float: left; }
+
+#line { color: #F1EBE3;
+        margin-left: 10%;}
+
+
+
+table {
+   width: 550px;
+   padding: 10px;
+  font-family: 'Bookman Old Style', serif;
+  color: #F1EBE3;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+
+td {
+   padding: 10px;
+}
+
+
+
+

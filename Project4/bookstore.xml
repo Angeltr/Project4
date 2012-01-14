@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : bookstore.xml
+    Created on : December 28, 2011, 11:43 AM
+    Author     : Angel
+    Description:
+        Purpose of the document follows.
+-->
+
+<bookstore>
+    <book>
+        <title>Everyday Italian</title>
+        <author>Giada De Laurentiis</author>
+        <year>2005</year>
+        <price>30.00</price>
+    </book>
+    <book>
+        <title>Harry Potter</title>
+        <author>J K. Rowling</author>
+        <year>2005</year>
+        <price>29.99</price>
+    </book>
+    <book>
+        <title>Facebook Marketing</title>
+        <author>Justin R. Levy</author>
+        <year>2010</year>
+        <price>16.50</price>
+    </book>
+    <book>
+        <title>Learning XML</title>
+        <author>Erik T. Ray</author>
+        <year>2003</year>
+        <price>39.95</price>
+    </book>
+    <book>
+        <title>Boomerang</title>
+        <author>Michael Lewis</author>
+        <year>2011</year>
+        <price>14.90</price>
+    </book>
+    <book>
+        <title>Team Foundation Server</title>
+        <author>Azher Jamil</author>
+        <year>2008</year>
+        <price>34.80</price>
+    </book>
+    <book>
+        <title>Encountering the Everyday</title>
+        <author>Jacobsen Michael Hviid</author>
+        <year>2008</year>
+        <price>18.49</price>
+    </book>
+</bookstore>
